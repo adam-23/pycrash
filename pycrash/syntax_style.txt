@@ -1,0 +1,8 @@
+# List of syntax and style rules to adhere to when programming in Python
+1. Use underscore, not hyphens. 
+2. Avoid camelcase because it looks like shit, but use it when needed. 
+3. Document everything, and do it using comments under each "block" of relevant code. 
+4. Begin each program with a comment stating the exact name of the program, followed by "by Adam"
+5. The second line of each separate program includes a summary of the program's main purpose. 
+6. use explicit but concise variable and function name schemes. 
+7. Directly below the function and class names, make sure to comment their explicit function. 
